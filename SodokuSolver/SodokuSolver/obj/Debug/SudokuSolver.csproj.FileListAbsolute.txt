@@ -1,0 +1,8 @@
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\bin\Debug\SodokuSolver.exe.config
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\bin\Debug\SodokuSolver.exe
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\bin\Debug\SodokuSolver.pdb
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\obj\Debug\SudokuSolver.csproj.AssemblyReference.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\obj\Debug\SudokuSolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\obj\Debug\SodokuSolver.exe
+C:\Users\JD\OneDrive - Saint Martin's University\Projects\SodokuSolver\SodokuSolver\obj\Debug\SodokuSolver.pdb
